@@ -1,6 +1,8 @@
  ## SMART CONTRACT ADDRESS : 'KT1PFmHB3wgQqANU4u2WYPTP5axb2H3K5DcQ'
  ## NETWORK : Jakartanet
  ## WALLET ADDRESS : 'tz1Qc5b1GXgShzHnU2WCpiN3MRZsYVR9wFcQ'
+ 
+ PUBLIC LINK : https://web3-nft-mint-blush.vercel.app/#
 
 # Getting Started with smartPY IDE
 
